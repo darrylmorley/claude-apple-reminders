@@ -1,0 +1,21 @@
+{
+  "name": "apple-reminders",
+  "version": "0.1.2",
+  "description": "Read, add, edit, complete and delete Apple Reminders on your Mac. Local only: no network access, no dependencies, deletes need a click on the Mac.",
+  "author": {
+    "name": "Bitmoor Ltd"
+  },
+  "license": "MIT",
+  "keywords": [
+    "apple",
+    "reminders",
+    "macos",
+    "todo",
+    "tasks"
+  ],
+  "homepage": "https://github.com/darrylmorley/claude-apple-reminders",
+  "repository": "https://github.com/darrylmorley/claude-apple-reminders",
+  "network": {
+    "hosts": []
+  }
+}

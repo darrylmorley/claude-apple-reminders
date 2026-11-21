@@ -1,0 +1,27 @@
+{
+  "name": "claude-apple-reminders",
+  "description": "Apple Reminders for Claude on macOS: local only, no dependencies, deletes confirmed on the Mac.",
+  "owner": {
+    "name": "Bitmoor Ltd"
+  },
+  "plugins": [
+    {
+      "name": "apple-reminders",
+      "source": "./",
+      "description": "Read, add, edit, complete and delete Apple Reminders on your Mac. Local only: no network access, no dependencies, deletes need a click on the Mac.",
+      "version": "0.1.2",
+      "author": {
+        "name": "Bitmoor Ltd"
+      },
+      "homepage": "https://github.com/darrylmorley/claude-apple-reminders",
+      "license": "MIT",
+      "keywords": [
+        "apple",
+        "reminders",
+        "macos",
+        "todo",
+        "tasks"
+      ]
+    }
+  ]
+}

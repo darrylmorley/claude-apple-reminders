@@ -1,0 +1,14 @@
+{
+  "name": "claude-apple-reminders",
+  "private": true,
+  "version": "0.1.2",
+  "description": "Read, add, edit, complete and delete Apple Reminders on your Mac. Local only: no network access, no dependencies, deletes need a click on the Mac.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node tests/run-tests.mjs"
+  }
+}
